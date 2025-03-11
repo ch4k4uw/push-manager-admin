@@ -4,6 +4,8 @@ string|api_error_message_generic|VW5rbm93biBlcnJvcjogJTEkcw==
 string|api_error_message_network|TmV0d29yayBlcnJvcg==
 string|api_error_message_remote|UmVtb3RlIGVycm9y
 string|app_name|UHVzaCBtYW5hZ2VyIEFkbWlu
+string|home_screen_binary_answer_0|WWVz
+string|home_screen_binary_answer_1|Tm8=
 string|home_screen_by_id_survey_list_all_option|QWxs
 string|home_screen_by_id_survey_list_label|U3VydmV5IGlkcw==
 string|home_screen_no_answers|Tm8gYW5zd2VycyBmb3VuZA==
